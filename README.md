@@ -38,8 +38,8 @@
 - **Angular Material**: Biblioteca de componentes UI para Angular, utilizada para criar uma interface amigável e responsiva.
 - **Firebase Authentication**: Serviço de autenticação utilizado para gerenciar usuários e garantir que as transações sejam associadas a contas específicas.
 - **Firestore**: Banco de dados NoSQL utilizado para armazenar as transações financeiras dos usuários.
-- - **Java com Spring Boot**: Usado para o backend, oferecendo serviços REST para o frontend e integração com o banco de dados.
-- - **PostgreSQL**: Banco de dados relacional utilizado para armazenar as informações das dicas financeiras.
+- **Java com Spring Boot**: Usado para o backend, oferecendo serviços REST para o frontend e integração com o banco de dados.
+- **PostgreSQL**: Banco de dados relacional utilizado para armazenar as informações das dicas financeiras.
 
 ## Estrutura do Projeto
 
