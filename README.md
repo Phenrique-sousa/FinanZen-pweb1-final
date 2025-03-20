@@ -51,6 +51,7 @@ O projeto está dividido em dois componentes principais:
 ## Links do Repositório
 
 - [Projeto_FinanZen](https://github.com/cassiaagomes/Gestao_Financeira)
+- [API FinanZen](https://github.com/cassiaagomes/FinanZen---SpingBoot)
 
 ## Alunos Envolvidos
 
